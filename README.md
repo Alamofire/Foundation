@@ -69,6 +69,10 @@ who provide logistical and financial oversight over the organization itself.
 
 The following individuals serve as founding members:
 
+### Kyle Fuller
+
+[Kyle Fuller](https://github.com/kylef) started developing Swift the very day it was announced and he hasn’t looked back since. He’s an active contributor in the open-source Swift scene and the technical lead behind CocoaPods -- The Dependency manager for Cocoa. By day he focuses on API Blueprint, an API description language at Apiary.
+
 ### Kevin Harwood
 
 [Kevin Harwood](https://github.com/kcharwood) is a Consulting Architect at Mutual Mobile, a tech agency partnering with some of the biggest companies in the world. Kevin is a seasoned mobile developer and software engineer, having created various mobile applications that span different industries and consumer segments – from wearables, retail, health and fitness, connected home and much more. Kevin first starting contributing to AFNetworking back in July of 2012, and has also worked on many other well known, open source libraries. Kevin also currently serves on the Industry Advisory Board for Software Engineering at Auburn University.
