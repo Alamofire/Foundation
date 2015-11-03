@@ -34,7 +34,7 @@ See [LICENSE.md](./LICENSE.md) for details.
 - [AFWebDAVManager](https://github.com/AFNetworking/AFWebDAVManager): A [WebDAV](http://www.webdav.org) client
 - [AFNetworkActivityLogger](https://github.com/AFNetworking/AFNetworkActivityLogger): An extension for for logging network requests as they are sent and received
 - [AFJSONRPCClient](https://github.com/AFNetworking/AFJSONRPCClient): An extension for communicating over [JSON-RPC](http://json-rpc.org)
-- [AFNetworking+WebKit](https://github.com/AFNetworking/WebKit): An extension for [WebKit](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/WebKit/ObjC_classic/index.html#//apple_ref/doc/uid/TP30000745) components
+- [WebKit-AFNetworking](https://github.com/AFNetworking/WebKit-AFNetworking): An extension for [WebKit](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/WebKit/ObjC_classic/index.html#//apple_ref/doc/uid/TP30000745) components
 - [AFgzipRequestSerializer](https://github.com/AFNetworking/AFgzipRequestSerializer): An extension that applies [gzip](http://www.gzip.org) compression to requests
 - [AFOnoResponseSerializer](https://github.com/AFNetworking/AFOnoResponseSerializer): An extension for handling XML and HTML responses using [Ono](https://github.com/mattt/Ono)
 - [AFMsgPackSerialization](https://github.com/AFNetworking/AFMsgPackSerialization): An extension that encodes requests and decodes responses to and from the [MsgPack](http://msgpack.org) format
