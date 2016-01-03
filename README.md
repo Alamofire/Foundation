@@ -82,11 +82,6 @@ The following individuals serve as founding members:
 
 [Christian Noon](https://github.com/cnoon) is a Lead iOS Engineer at Nike, focusing on creating the next generation of sport, health and fitness apps. Christian’s background began in virtual reality and computer graphics at the Iowa State Virtual Reality Applications Center (VRAC) and eventually spawned off into Mac and iOS development. He has worked at several large companies (Dreamworks Animation, Nike) building apps ranging from intricate rendering pipeline tools to mobile and wearable apps used by millions. Christian has been an active contributor to open source libraries for many years across multiple languages. He first started contributing to Alamofire shortly after its initial release, and has been actively involved ever since.
 
-### Mattt Thompson
-
-[Mattt Thompson](https://github.com/mattt) is the founder of the Alamofire Software Foundation
-and the original creator of AFNetworking and Alamofire.
-
 ## Communication
 
 For general inquiries, feel free to get in touch with us over email, at <info@alamofire.org>.
