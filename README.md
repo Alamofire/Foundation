@@ -24,6 +24,7 @@ See [LICENSE.md](./LICENSE.md) for details.
 ### Swift
 
 - [Alamofire](https://github.com/Alamofire/Alamofire): An HTTP networking library for iOS and OS X
+- [AlamofireImage](https://github.com/Alamofire/AlamofireImage): An image component library for Alamofire
 
 ### Objective-C
 
