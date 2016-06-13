@@ -25,6 +25,7 @@ See [LICENSE.md](./LICENSE.md) for details.
 
 - [Alamofire](https://github.com/Alamofire/Alamofire): An HTTP networking library for iOS and OS X
 - [AlamofireImage](https://github.com/Alamofire/AlamofireImage): An image component library for Alamofire
+- [AlamofireNetworkActivityIndicator](https://github.com/Alamofire/AlamofireNetworkActivityIndicator): An extension for controlling the visibility of the network activity indicator on iOS
 
 ### Objective-C
 
