@@ -5,10 +5,10 @@ with the purpose of promoting, supporting, and advancing its open-source softwar
 
 Specifically, the foundation's goals are to:
 
-*   Support development of Alamofire by sponsoring sprints, meetups, gatherings and community events
-*   Promote the use of Alamofire software among the application developer community
-*   Protect the intellectual property and the framework's long-term viability
-*   Advance the state of the art in application development
+- Support development of Alamofire by sponsoring sprints, meetups, gatherings and community events
+- Promote the use of Alamofire software among the application developer community
+- Protect the intellectual property and the framework's long-term viability
+- Advance the state of the art in application development
 
 ## Projects
 
@@ -66,22 +66,31 @@ See [CONDUCT.md](./CONDUCT.md) for details.
 
 ## Members
 
-The Alamofire Software Foundation is represented by a board of directors,
-who provide logistical and financial oversight over the organization itself.
+The Alamofire Software Foundation is represented by a board of directors, who provide logistical and financial oversight over the organization itself.
 
-The following individuals serve as founding members:
+See [BYLAWS.md](./BYLAWS.md) for more details.
+
+### Christian Noon (President / Treasurer)
+
+[Christian Noon](https://github.com/cnoon) is a Principal Engineer at Nike, focusing on creating the next generation of sport, health and fitness apps. Christian’s background began in virtual reality and computer graphics at the Iowa State Virtual Reality Applications Center (VRAC) and eventually spawned off into Mac and iOS development. He has worked at several large companies (Dreamworks Animation, Nike) building apps ranging from intricate rendering pipeline tools to mobile and wearable apps used by millions. Christian has been an active contributor to open source libraries for many years across multiple languages. He first started contributing to Alamofire shortly after its initial release, and has been actively involved ever since.
+
+### Kevin Harwood (Vice President)
+
+[Kevin Harwood](https://github.com/kcharwood) is a Consulting Architect at Mutual Mobile, a tech agency partnering with some of the biggest companies in the world. Kevin is a seasoned mobile developer and software engineer, having created various mobile applications that span different industries and consumer segments – from wearables, retail, health and fitness, connected home and much more. Kevin first starting contributing to AFNetworking back in July of 2012, and has also worked on many other well known, open source libraries. Kevin also currently serves on the Industry Advisory Board for Software Engineering at Auburn University.
+
+### Jon Shier (Secretary)
+
+[Jon Shier](https://github.com/jshier) has been programming on Apple platforms since learning Objective-C on the Mac OS X Public Beta. Having been a hobbyist for over a decade, Jon joined Detroit Labs in Detroit, Michigan in 2013, where he works with smart and talented people to bring client ideas to life.
+
+## Alumni
+
+### Mattt Thompson
+
+[Mattt Thompson](https://github.com/mattt) is the founder of the Alamofire Software Foundation and the original creator of AFNetworking and Alamofire.
 
 ### Kyle Fuller
 
 [Kyle Fuller](https://github.com/kylef) started developing Swift the very day it was announced and he hasn’t looked back since. He’s an active contributor in the open-source Swift scene and the technical lead behind CocoaPods -- The Dependency manager for Cocoa. By day he focuses on API Blueprint, an API description language at Apiary.
-
-### Kevin Harwood
-
-[Kevin Harwood](https://github.com/kcharwood) is a Consulting Architect at Mutual Mobile, a tech agency partnering with some of the biggest companies in the world. Kevin is a seasoned mobile developer and software engineer, having created various mobile applications that span different industries and consumer segments – from wearables, retail, health and fitness, connected home and much more. Kevin first starting contributing to AFNetworking back in July of 2012, and has also worked on many other well known, open source libraries. Kevin also currently serves on the Industry Advisory Board for Software Engineering at Auburn University.
-
-### Christian Noon
-
-[Christian Noon](https://github.com/cnoon) is a Lead iOS Engineer at Nike, focusing on creating the next generation of sport, health and fitness apps. Christian’s background began in virtual reality and computer graphics at the Iowa State Virtual Reality Applications Center (VRAC) and eventually spawned off into Mac and iOS development. He has worked at several large companies (Dreamworks Animation, Nike) building apps ranging from intricate rendering pipeline tools to mobile and wearable apps used by millions. Christian has been an active contributor to open source libraries for many years across multiple languages. He first started contributing to Alamofire shortly after its initial release, and has been actively involved ever since.
 
 ## Communication
 
