@@ -66,23 +66,29 @@ See [CONDUCT.md](./CONDUCT.md) for details.
 
 ## Members
 
-The Alamofire Software Foundation is represented by a board of directors, who provide logistical and financial oversight over the organization itself.
+The Alamofire Software Foundation is represented by a board of directors, who provide logistical and financial oversight over the organization itself. The following individuals serve as the current board of directors for the Alamofire Software Foundation:
+
+- Christian Noon - President / Treasurer
+- Kevin Harwood - Vice President
+- Jon Shier - Secretary
 
 See [BYLAWS.md](./BYLAWS.md) for more details.
 
-### Christian Noon (President / Treasurer)
+### Christian Noon
 
 [Christian Noon](https://github.com/cnoon) is a Principal Engineer at Nike, focusing on creating the next generation of sport, health and fitness apps. Christian’s background began in virtual reality and computer graphics at the Iowa State Virtual Reality Applications Center (VRAC) and eventually spawned off into Mac and iOS development. He has worked at several large companies (Dreamworks Animation, Nike) building apps ranging from intricate rendering pipeline tools to mobile and wearable apps used by millions. Christian has been an active contributor to open source libraries for many years across multiple languages. He first started contributing to Alamofire shortly after its initial release, and has been actively involved ever since.
 
-### Kevin Harwood (Vice President)
+### Kevin Harwood
 
 [Kevin Harwood](https://github.com/kcharwood) is a Consulting Architect at Mutual Mobile, a tech agency partnering with some of the biggest companies in the world. Kevin is a seasoned mobile developer and software engineer, having created various mobile applications that span different industries and consumer segments – from wearables, retail, health and fitness, connected home and much more. Kevin first starting contributing to AFNetworking back in July of 2012, and has also worked on many other well known, open source libraries. Kevin also currently serves on the Industry Advisory Board for Software Engineering at Auburn University.
 
-### Jon Shier (Secretary)
+### Jon Shier
 
 [Jon Shier](https://github.com/jshier) has been programming on Apple platforms since learning Objective-C on the Mac OS X Public Beta. Having been a hobbyist for over a decade, Jon joined Detroit Labs in Detroit, Michigan in 2013, where he works with smart and talented people to bring client ideas to life.
 
 ## Alumni
+
+The following individuals have previously served on the board of directors for the Alamofire Software Foundation.
 
 ### Mattt Thompson
 
