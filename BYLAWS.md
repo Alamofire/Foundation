@@ -19,7 +19,7 @@ The following are the purposes for which this organization has been organized:
 
 ## ARTICLE III - MEMBERSHIP
 
-The Corporation shall have no members.
+The membership of the corporation shall consist of the members of the Board of Directors.
 
 ## ARTICLE IV - MEETING
 
@@ -60,9 +60,9 @@ No inspector of election shall be a candidate fro office or shall be personally 
 
 ## ARTICLE VII - BOARD OF DIRECTORS
 
-The business of this organization shall be managed by a Board of Directors, four of whom shall serve as the officers of the organization. If the Board of Directors consists of less than four members, members shall be allowed to hold multiple officer positions. The number of Directors consituting the entire Board shall be fixed by the Board, but such number shall not be less than three.
+The business of this organization shall be managed by a Board of Directors, four of whom shall serve as the officers of the organization. If the Board of Directors consists of less than four members, members shall be allowed to hold multiple officer positions. The number of Directors constituting the entire Board shall be fixed by the Board, but such number shall not be less than three.
 
-The directors to be chosen for the ensuing year shall be chosen at the annual meeting of this organization in the same manner and style as the officers of this organization and they shall serve for a term of one year.
+The directors to be chosen for the ensuing year shall be chosen at the annual meeting of this organization in the same manner and style as the officers of this organization and they shall serve for a term of one year. Directors shall be eligible to serve successive terms without limitation.
 
 The Board of Directors shall have the control and management of the affairs and business of this organization. Such Board of Directors shall only act in the name of the organization when it shall be regularly convened by its chairman after due notice to all the directors of such meeting.
 
@@ -95,6 +95,9 @@ The Treasurer shall have the care and custody of all monies belonging to the org
 The Treasurer shall render at stated periods as the Board of Directors shall determine a written account of the finances of the organization and such report shall be physically affixed to the minutes of the Board of Directors of such meeting and shall exercise all duties incident to the office of Treasurer.
 
 Officers shall by virtue of this office be members of the Board of Directors.
+
+Officer elections for the ensuing year are to be held at the annual meeting of this organization.
+The Board shall submit at the meeting prior to the annual meeting nominations of the names of those persons for the respective officers positions. The election shall be held at the annual meeting of the Board of Directors. Once elected, the officers shall serve a term of one year, commencing at the next meeting following the annual meeting. Officers shall be eligible to succeed themselves in their respective offices for subsequent terms.
 
 No officer or director shall for reason of the office be entitled to receive any salary or compensation, but nothing herein shall be construed to prevent an officer or director from receiving any compensation from the organization for duties other than as a director or officer.
 
@@ -160,3 +163,11 @@ Revisions occurred on August 20th, 2016.
 
 * Removed Kyle Fuller from the Board of Directors.
 * Added Jon Shier to the Board of Directors. Elected Jon Shier to the office of Secretary.
+
+### Revision 3
+
+Revisions occurred on October 2nd, 2016.
+
+* Updated Membership section to consist of the members of the Board of Directors.
+* Updated the Board of Directors section to state terms are one year and that directors can serve successive terms without limitation.
+* Added an Election section to the Officers section.
